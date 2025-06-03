@@ -1,4 +1,4 @@
-// esse arquivo excel precisa ser convertido para um JSON, que salva as informações das colunas Data, Início, Fim e (Ticket + Assunto), e armazenado num arquivo JSON nesse formato:
+// esse arquivo excel precisa ser convertido para um JSON chamado entrada.json, que salva as informações das colunas Data, Início, Fim e (Ticket + Assunto), e armazenado nesse formato:
 
 // [
 //   {
